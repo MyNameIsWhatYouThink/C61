@@ -1,0 +1,12 @@
+body{
+    background-image:linear-gradient(to bottom left,green,blue,red);
+    text-align:center;
+    
+}
+h1{
+    color:cyan;
+}
+p{
+    font-size:25px;
+    color:rgb(247, 210, 210);
+}
